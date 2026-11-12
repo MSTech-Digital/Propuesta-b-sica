@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Reemplazar DOMINIO-DEL-CLIENTE por el dominio definitivo antes de publicar -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://DOMINIO-DEL-CLIENTE/</loc><priority>1.0</priority></url>
+</urlset>
