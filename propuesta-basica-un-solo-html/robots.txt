@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-# Sitemap: https://DOMINIO-DEL-CLIENTE/sitemap.xml   ← descomentar al publicar
